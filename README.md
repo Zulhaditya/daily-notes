@@ -22,12 +22,12 @@
 - React - version 18.2.0
 
 ## Features
-- :heavy_plus_sign: Add notes by filling in the **title** and **content**
-- :no_entry: Delete notes in **active** and **archive** sections
-- :bookmark_tabs: Display a **list** of active notes
-- :warning: Limit the number of characters and display the remaining characters in the **title**
-- :books: Move notes to **archive** section
-- :mag_right: Search notes by **title**
+- :heavy_plus_sign: Add notes by filling in the **title** and **content**.
+- :no_entry: Delete notes in **active** and **archive** sections.
+- :bookmark_tabs: Display a **list** of active notes.
+- :warning: Limit the number of characters and display the remaining characters in the **title**.
+- :books: Move notes to **archive** section.
+- :mag_right: Search notes by **title**.
 
 ## Screenshots
 ![Example screenshot](./img/personal-note.png)
