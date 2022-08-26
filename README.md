@@ -1,4 +1,4 @@
-# personal-notes
+# Personal Notes
 Notes app built using React by implementing state and component.
 
 ## Featured
