@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-<!-- * [Usage](#usage) -->
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -17,7 +16,6 @@
 ## General Information
 - Manage daily activities.
 - This website is used to record any notes that can help us remember simple things.
-
 
 ## Technologies Used
 - NodeJS - version 16.17.0
