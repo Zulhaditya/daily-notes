@@ -50,7 +50,7 @@ Room for improvement:
 - Beautify the appearance of the website with css.
 
 To do:
-- Add data records to database.
+- Save data records to database.
 - Edit notes.
 
 ## Acknowledgements
