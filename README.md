@@ -41,7 +41,7 @@ $ npm install
 $ npm start
 ```
 ## Project Status
-Project is: _in progress_ <!-- / _complete_ / _no longer being worked on_. reason ? -->
+Project is: _in progress._ <!-- / _complete_ / _no longer being worked on_. reason ? -->
 
 ## Room for Improvement
 
