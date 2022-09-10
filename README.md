@@ -1,4 +1,4 @@
-# PersonalNotes
+# Personal Notes
 > Notes website built using React by implementing state and component.
 > Live demo [_here_](https://personaldailynotes.netlify.app/).
 
